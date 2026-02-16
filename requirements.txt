@@ -1,0 +1,20 @@
+# Core data handling
+numpy
+pandas
+
+# Machine learning / text processing
+scikit-learn
+
+# Streamlit for the app
+streamlit
+
+# Spotify API
+spotipy
+
+# Optional: visualization if used
+matplotlib
+seaborn
+
+# Text processing
+nltk
+swifter
