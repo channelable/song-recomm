@@ -8,8 +8,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 # --------------------------
 # 1. Load dataset
 # --------------------------
-df = pd.read_csv("songs_processed.csv")
-
+url = "https://drive.google.com/uc?id=1JT0NaGD62Zg1WKUg6Gy-EYg1VE_lOhCx"
+df = pd.read_csv(url)
 # --------------------------
 # 2. TF-IDF + Nearest Neighbors
 # --------------------------
